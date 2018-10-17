@@ -1,4 +1,4 @@
-# hackerbay-frontend
+# Tic-Tac Toe
 This is the front-end task for the hackerbay interview.
 
 You can run the app with 'yarn start'
